@@ -1,1 +1,1 @@
-# /Resume built with only HTML
+# Resume built with only HTML
